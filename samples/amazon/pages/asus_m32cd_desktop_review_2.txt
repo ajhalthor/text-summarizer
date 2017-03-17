@@ -1,0 +1,33 @@
+
+This is a desktop tower computer designed to be plug and play. So, selecting the unit that most closely meets the needs of the user is important because not everything may be easily changed or enhanced. On the back of the box is a warranty seal over a seam in the case that states “Do not open before reading warranty card.” The manual states the warranty is void if the seal is broken or altered, so approach this with that knowledge. The ability to add internal hard drives, expansion cards or memory will require breaking the warranty seal, and only the individual can determine whether that is a concern.
+
+To start I plugged the included mouse and keyboard into the two USB 2.0 ports on the back of the unit. Then I plugged my network cable into the Ethernet port and connected my front and rear speakers into the marked ports (front and rear) and then plugged the included power cable into the back and pressed the large power button which then became illuminated with a white LED halo.
+
+There are two ways to connect to a monitor (not included). A cable with either a VGA style analog connector or an HDMI connector (neither included.) Note, it does not have a DVI connection or a display port but this can remedied by purchasing an adapter.
+
+Next I started up the included complete Windows 10 “Home” operating system (as of this date to purchase separately would cost around one hundred and twenty dollars). One difference between Windows 10 Home or all of the other Windows 10 versions is that with Home the updates are automatically downloaded and installed. The user has no options or selections to make
+
+There are other differences between the Windows 10 Pro version I have on another computer and this Home version like Microsoft’s remote desktop. With this version you can use remote desktop to connect to other computers but other computers cannot connect to the Windows 10 Home computer. The setting to allow remote desktop connections does not exist in this version.
+
+I then did a search of missing features on the Windows 10 Home version and confirmed remote desktop is not included. Other exclusions include -- cannot join a domain network, or use group policy management, there is no Hyper-V client so you can’t access virtual machines, no App Locker, or Bitlocker, or Branch Cache, along with other items.
+
+There is a document created by Microsoft where the differences are laid out on a chart. Locating it is easiest by doing a search for Win10EditionsCompareTable which provides more complete detail to determine if the limitations will be an issue.
+
+The option to upgrade to Windows 10 Pro is available but I wanted to test the machine as is so I didn’t select it -- and have no cost information for the upgrade. And, it is certainly possible that the current limitations may be removed at a future date with Windows updates.
+
+The install was straightforward -- turn on the computer, select a county, time zone and language. Next screen create a user id and password and that’s it. It took a few minutes to arrive at the Windows screen the first time after that it boots to the screen in under a minute.
+
+Basic apps are plentiful like Cortana, Twitter, Mail, Calendar, Calculator, Mindcraft beta, People, Phone Companion, 3D Builder and more. There is also a free trial of Office 365 which has a word processor, Excel, etc. And, ASUS includes some good utilities like Secure Delete, ASUS Manager App – Power, Update, Security, Back-up and Recovery, Tools and Support. I tested Secure Delete and Update and they worked well.
+
+The wired keyboard is 17 inches long and has a 56 inch attached USB cable. It is a basic model with keys that have tactile feedback (you can feel when they’ve been successfully depressed) but they are silent – no clicking sound if that is a preference, and no backlight. There are two fold-out legs on the upper bottom edge that elevate the back one quarter inch. The optical mouse has a 59 inch attached USB cable and features a scroll wheel.
+
+To test the USB 3.1 ports I connected a drive to the USB 3.0 port and copied a 1.2 GB file to the internal hard drive. The copy took twenty seconds with the USB 3.0 port and only ten seconds with the 3.1 port. It shaved off half the copying time. Pretty impressive. And, there is great utility in the six-in-one card reader which conveniently reads six different types of memory cards.
+
+Wirelessly connecting to networks and other devices is effortless because Bluetooth and WiFi are built-in. I tested the WiFi by connecting to my wireless router and it was very fast and solid. And the Bluetooth quickly detected and paired with devices that were over twenty feet away.
+
+Starting applications, surfing the net, watching videos, and when playing games everything is lightning fast undoubtedly because of the 8 GB memory and the Intel core i5 processor. I encountered no loading delay or buffering. It does not play Blu-ray discs and the graphics are not good enough for Ultra HD. Upgrading is possible but would require replacing the installed components and presents a warranty issue.
+
+The tower is really quiet which makes placement more flexible – like a bedroom installation should pose no problem. This is a full-feature mid—range computer with robust performance and is priced reasonably. It does have some limitations so determine individual needs to ensure the unit is a good fit.
+
+
+http://www.amazon.com/M32CD-Desktop-Windows-Keyboard-Mouse/dp/B014QVM2KO/ref=pd_vtph_147_bs_t_2?ie=UTF8&refRID=0H0W3RBKFD92GBJY48QW

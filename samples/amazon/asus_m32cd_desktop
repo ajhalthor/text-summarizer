@@ -1,0 +1,34 @@
+Ok Guys, I've had this machine for about 2 weeks now and I've come to the conclusion that I love it. I'm coming from an Intel Core Q6600, so this was a big jump forward. I think this machine will last for the long haul just like my Dell Inspiron 530 did (Since 2008).
+
+
+On to the good stuff:
+I took this out of the box (I did make an unboxing video if anyone is interested EDIT: https://youtu.be/tTEnfK4jN3s), hooked up my monitor and the included keyboard/mouse. It went into the Windows 10 first time starting the machine configuration where you answer a few questions. After that, it downloads updates, reboots and takes you to the desktop. Off the bat, the machine felt a little slow, but I had upgraded my Q6600 PC to a SSD prior, so the spinning drive had a lot to do with the perception of slowness. There really isn't any extra crapware installed from the factory. The only additional item was some McAfee security software. I like to have Microsoft official installation media, so I downloaded Windows 10 directly from Microsoft and created a media USB drive to reinstall the OS. The cool thing is, the product key is embeded in the UEFI BIOS so you don't need to do anything when you reinstall the OS. Windows 10 detects the product key and automatically activates.
+
+
+Just like everyone has said, there IS a warranty label that you must break to gain access to the inside of the case. It's some type of security sticker that shreds when you try to lift it. So if you decide to upgrade either wait till your year is up, or "self-insure".
+
+
+After verifying my machine was in good working order, I proceeded to break the seal and throw some upgrades in. They are as follows:
+1- Samsung EVO 850 500GB SSD Drive.
+2- Mushkin Enhanced ECO2 8GB 240-Pin DDR3 SDRAM DDR3L 1600 (PC3L 12800) Desktop Memory Model 992031E
+3- Fractal Design Silent Series R3 92mm Fan (The machine comes with no chassis fans, so I got this 3 pin fan to move some air. There is a 4 pin header on the motherboard if you want to get an RPM controllable PWM fan, but I didn't think it was necessary. There is also a spot on the front of the case to install another fan. (Only 1 header on the motherboard though)
+4- 2 Additional SATA cables. I now have the SSD, the 1 TB drive it came with and a 2TB drive I had prior installed in the case).
+
+
+This machine will also drive a 4K display at 30hz over the HDMI port. It works perfectly for my AMH 409U 40" 4k display for productivity work. Don't bother trying to play AAA or AA games without dropping in a discrete graphics card. If you desire to put in a graphics card, you will truly need an upgraded power supply.
+
+
+BIOS Situation is interesting. Mine came with version 0501 with a date of 08/28/2015. If you go to their site, at http://www.asus.com/supportonly/M32CD/HelpDesk_Download/ you'll see that they released an update on 11/6/2015 - version 0504. If you download the file, it is named H110-M-ASUS-M32CD-0501CAP.zip (notice the 0501?) weird.
+
+
+One last thing that may or may not be promising is the integrated wireless card is sitting in a mPCIe 1x slot. I'm wondering if it's possible to remove the card and install an additional mSATA or similar SSD in that slot. I'm not sure how that would turn out, but it's an idea.
+
+
+After the upgrades, this machine runs like a champ. I'm thoroughly impressed. If you have that "Slowness" feeling, you'll need to bite the bullet and go SSD for the OS drive.
+
+
+For warranty information, I just uploaded a page from the "ASUS Warranty Card" booklet. Take a look at section 3, subsections 2 and 4.
+
+
+If anyone wants any pictures or has additional questions, let me know.
+http://www.amazon.com/M32CD-Desktop-Windows-Keyboard-Mouse/dp/B014QVM2KO/ref=pd_vtph_147_bs_t_2?ie=UTF8&refRID=0H0W3RBKFD92GBJY48QW
